@@ -1,4 +1,4 @@
-# WhiteNoise Research
+# WhiteNoise Lab
 Base repo
 
-v0.1 June 2019
+v0.2 June 2020
